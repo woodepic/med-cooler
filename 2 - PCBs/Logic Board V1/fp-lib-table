@@ -1,0 +1,8 @@
+(fp_lib_table
+
+  (lib (name USB4056-03-A)
+    (type Github)
+    (uri https://github.com/woodepic/kicad-components/tree/main/2%20-%20Footprints/USB%20Connectors/USB4056-03-A.pretty)
+  )
+
+)

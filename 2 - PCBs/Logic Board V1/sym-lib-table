@@ -1,4 +1,8 @@
 (sym_lib_table
-  (version 7)
-  (lib (name "USB4056-03-A")(type "KiCad")(uri "/Users/matt/Library/CloudStorage/GoogleDrive-matt@angfam.com/My Drive/Personal/Projects/med-cooler/2 - PCBs/1 - Custom Parts/USB4056-03-A.kicad_sym")(options "")(descr ""))
+
+  (lib (name USB4056-03-A)
+    (type Github)
+    (uri https://github.com/woodepic/kicad-components/blob/main/1%20-%20Schematics/USB%20Connectors/USB4056-03-A.kicad_sym)
+  )
+  
 )
