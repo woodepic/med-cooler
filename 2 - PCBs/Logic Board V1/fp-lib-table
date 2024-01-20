@@ -1,8 +1,6 @@
 (fp_lib_table
-
-  (lib (name USB4056-03-A)
-    (type Github)
-    (uri https://github.com/woodepic/kicad-components/tree/main/2%20-%20Footprints/USB%20Connectors/USB4056-03-A.pretty)
-  )
-
+  (version 7)
+  (lib (name "USB4056-03-A")(type "KiCad")(uri "/Users/matt/Library/CloudStorage/GoogleDrive-matt@angfam.com/My Drive/Personal/Projects/Meds Cooler/kicad-components/2 - Footprints/USB Connectors/USB4056-03-A.pretty")(options "")(descr ""))
+  (lib (name "NORA_W106_00B")(type "KiCad")(uri "/Users/matt/Library/CloudStorage/GoogleDrive-matt@angfam.com/My Drive/Personal/Projects/Meds Cooler/kicad-components/2 - Footprints/SOCs/NORA_W106_00B.pretty")(options "")(descr ""))
+  (lib (name "PRTR5V0U2X")(type "KiCad")(uri "/Users/matt/Library/CloudStorage/GoogleDrive-matt@angfam.com/My Drive/Personal/Projects/Meds Cooler/kicad-components/2 - Footprints/ESD Diodes/PRTR5V0U2X.pretty")(options "")(descr ""))
 )
