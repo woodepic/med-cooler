@@ -5,4 +5,5 @@
   (lib (name "PRTR5V0U2X")(type "KiCad")(uri "/Users/matt/Library/CloudStorage/GoogleDrive-matt@angfam.com/My Drive/Personal/Projects/Meds Cooler/kicad-components/1 - Schematics/ESD Diodes/PRTR5V0U2X.kicad_sym")(options "")(descr ""))
   (lib (name "CM315D32768DZFT")(type "KiCad")(uri "/Users/matt/Library/CloudStorage/GoogleDrive-matt@angfam.com/My Drive/Personal/Projects/Meds Cooler/kicad-components/1 - Schematics/Crystals/CM315D32768DZFT.kicad_sym")(options "")(descr ""))
   (lib (name "PTS815_SJM_250_SMTR_LFS")(type "KiCad")(uri "/Users/matt/Library/CloudStorage/GoogleDrive-matt@angfam.com/My Drive/Personal/Projects/Meds Cooler/kicad-components/1 - Schematics/Push Buttons/PTS815_SJM_250_SMTR_LFS.kicad_sym")(options "")(descr ""))
+  (lib (name "0603_LED")(type "KiCad")(uri "/Users/matt/Library/CloudStorage/GoogleDrive-matt@angfam.com/My Drive/Personal/Projects/Meds Cooler/kicad-components/1 - Schematics/LEDs/0603_LED.kicad_sym")(options "")(descr ""))
 )
