@@ -8,4 +8,5 @@
   (lib (name "0603_LED")(type "KiCad")(uri "/Users/matt/Library/CloudStorage/GoogleDrive-matt@angfam.com/My Drive/Personal/Projects/Meds Cooler/kicad-components/1 - Schematics/LEDs/0603_LED.kicad_sym")(options "")(descr ""))
   (lib (name "0404_RGB_LED")(type "KiCad")(uri "/Users/matt/Library/CloudStorage/GoogleDrive-matt@angfam.com/My Drive/Personal/Projects/Meds Cooler/kicad-components/1 - Schematics/LEDs/0404_RGB_LED.kicad_sym")(options "")(descr ""))
   (lib (name "2N7002T-7-F")(type "KiCad")(uri "/Users/matt/Library/CloudStorage/GoogleDrive-matt@angfam.com/My Drive/Personal/Projects/Meds Cooler/kicad-components/1 - Schematics/Mosfets N-Channel/2N7002T-7-F.kicad_sym")(options "")(descr ""))
+  (lib (name "GD25B128EWIGR_128Mb")(type "KiCad")(uri "/Users/matt/Library/CloudStorage/GoogleDrive-matt@angfam.com/My Drive/Personal/Projects/Meds Cooler/kicad-components/1 - Schematics/Flash Chips/GD25B128EWIGR_128Mb.kicad_sym")(options "")(descr ""))
 )
