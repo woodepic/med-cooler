@@ -12,4 +12,5 @@
   (lib (name "MP9943GQ-Z")(type "KiCad")(uri "/Users/matt/Library/CloudStorage/GoogleDrive-matt@angfam.com/My Drive/Personal/Projects/Meds Cooler/kicad-components/2 - Footprints/Voltage Regulators/MP9943GQ-Z.pretty")(options "")(descr ""))
   (lib (name "PMEG6020AELRX")(type "KiCad")(uri "/Users/matt/Library/CloudStorage/GoogleDrive-matt@angfam.com/My Drive/Personal/Projects/Meds Cooler/kicad-components/2 - Footprints/Diodes/PMEG6020AELRX.pretty")(options "")(descr ""))
   (lib (name "MAKK2016T3R3M")(type "KiCad")(uri "/Users/matt/Library/CloudStorage/GoogleDrive-matt@angfam.com/My Drive/Personal/Projects/Meds Cooler/kicad-components/2 - Footprints/Inductors/MAKK2016T3R3M.pretty")(options "")(descr ""))
+  (lib (name "0603_inductor")(type "KiCad")(uri "/Users/matt/Library/CloudStorage/GoogleDrive-matt@angfam.com/My Drive/Personal/Projects/Meds Cooler/kicad-components/2 - Footprints/Inductors/0603_inductor.pretty")(options "")(descr ""))
 )
