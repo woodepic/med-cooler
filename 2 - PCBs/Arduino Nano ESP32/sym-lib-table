@@ -11,4 +11,5 @@
   (lib (name "GD25B128EWIGR_128Mb")(type "KiCad")(uri "/Users/matt/Library/CloudStorage/GoogleDrive-matt@angfam.com/My Drive/Personal/Projects/Meds Cooler/kicad-components/1 - Schematics/Flash Chips/GD25B128EWIGR_128Mb.kicad_sym")(options "")(descr ""))
   (lib (name "MP9943GQ-Z")(type "KiCad")(uri "/Users/matt/Library/CloudStorage/GoogleDrive-matt@angfam.com/My Drive/Personal/Projects/Meds Cooler/kicad-components/1 - Schematics/Voltage Regulators/MP9943GQ-Z.kicad_sym")(options "")(descr ""))
   (lib (name "PMEG6020AELRX")(type "KiCad")(uri "/Users/matt/Library/CloudStorage/GoogleDrive-matt@angfam.com/My Drive/Personal/Projects/Meds Cooler/kicad-components/1 - Schematics/Diodes/PMEG6020AELRX.kicad_sym")(options "")(descr ""))
+  (lib (name "MAKK2016T3R3M")(type "KiCad")(uri "/Users/matt/Library/CloudStorage/GoogleDrive-matt@angfam.com/My Drive/Personal/Projects/Meds Cooler/kicad-components/1 - Schematics/Inductors/MAKK2016T3R3M.kicad_sym")(options "")(descr ""))
 )
