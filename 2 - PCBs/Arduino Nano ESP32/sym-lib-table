@@ -13,4 +13,5 @@
   (lib (name "PMEG6020AELRX")(type "KiCad")(uri "/Users/matt/Library/CloudStorage/GoogleDrive-matt@angfam.com/My Drive/Personal/Projects/Meds Cooler/kicad-components/1 - Schematics/Diodes/PMEG6020AELRX.kicad_sym")(options "")(descr ""))
   (lib (name "MAKK2016T3R3M")(type "KiCad")(uri "/Users/matt/Library/CloudStorage/GoogleDrive-matt@angfam.com/My Drive/Personal/Projects/Meds Cooler/kicad-components/1 - Schematics/Inductors/MAKK2016T3R3M.kicad_sym")(options "")(descr ""))
   (lib (name "0603_inductor")(type "KiCad")(uri "/Users/matt/Library/CloudStorage/GoogleDrive-matt@angfam.com/My Drive/Personal/Projects/Meds Cooler/kicad-components/1 - Schematics/Inductors/0603_inductor.kicad_sym")(options "")(descr ""))
+  (lib (name "PH1-15-UA")(type "KiCad")(uri "/Users/matt/Library/CloudStorage/GoogleDrive-matt@angfam.com/My Drive/Personal/Projects/Meds Cooler/kicad-components/1 - Schematics/Headers/PH1-15-UA.kicad_sym")(options "")(descr ""))
 )
