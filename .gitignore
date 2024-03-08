@@ -4,3 +4,4 @@
 _autosave-*
 *.lck
 fp-info-cache
+.components/
