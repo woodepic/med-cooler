@@ -1,8 +1,11 @@
-
+#!/usr/bin/env python3
 
 import subprocess
 import shutil
 import os
+
+script_directory = os.path.dirname(os.path.abspath(__file__))
+os.chdir(script_directory)
 
 def clone_repository(repo_url, folder_name):
     if os.path.exists(folder_name) and os.path.isdir(folder_name):
