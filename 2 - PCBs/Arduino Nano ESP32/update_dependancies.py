@@ -41,7 +41,7 @@ with open(file_path, 'r') as file:
     file_content = file.read()
     modified_content = file_content.replace(
         "/Users/matt/Library/CloudStorage/GoogleDrive-matt@angfam.com/My Drive/Personal/Projects/Meds Cooler/kicad-components",
-        current_directory + "/components"
+        current_directory + "/.components"
     )
 with open(file_path, 'w') as file:
     file.write(modified_content)
